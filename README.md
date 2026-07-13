@@ -43,6 +43,9 @@ A production-style ML model serving backend, built solo with an issue-driven Git
   <img src="https://github-readme-stats.vercel.app/api?username=avnimujawdiya&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnimujawdiya&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avnimujawdiya/Avnimujawdiya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avnimujawdiya&theme=radical&hide_border=true" />
