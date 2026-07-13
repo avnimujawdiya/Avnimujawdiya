@@ -8,11 +8,10 @@ Hey — I'm a second-year CSE (AI & Data Science) student who got tired of just 
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Vestro — E-commerce Platform](https://github.com/avnimujawdiya/vestro)
-A cinematic, animation-heavy e-commerce storefront inspired by Snitch, built with **Next.js 15**.
-- Glassmorphism navbar + splash screen, global cart via React Context
-- Dynamic product routing, live search, category filters, full checkout flow
-- Framer Motion + Three.js for micro-interactions
+### 🛍️ [Vestro](https://github.com/avnimujawdiya/vestro) — Full-Stack E-Commerce Platform
+Animated storefront with custom backend API, AI-inspired recommendations, and visual search.  
+**Tech:** Next.js · Framer Motion · Three.js · React Context API  
+🔗 [Live Demo](https://vestro-orpin.vercel.app) | 💻 [Source Code](https://github.com/avnimujawdiya/vestro)
 
 **Tech:** `Next.js 15` `Tailwind CSS` `Framer Motion` `Three.js`
 
